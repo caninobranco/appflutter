@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "507020516427",
+    "project_id": "appfinal-7e219",
+    "storage_bucket": "appfinal-7e219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507020516427:android:c66fdffa1625df798c41ce",
+        "android_client_info": {
+          "package_name": "com.example.flutter_aula1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG6A37Ln17JWoBdsDVsyHCGGG8i7VjBDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507020516427:android:23ccba59bdb768bb8c41ce",
+        "android_client_info": {
+          "package_name": "com.example.lembrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG6A37Ln17JWoBdsDVsyHCGGG8i7VjBDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
